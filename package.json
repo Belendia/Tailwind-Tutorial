@@ -1,0 +1,22 @@
+{
+  "name": "tailwindtutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belendia/Tailwind-Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belendia/Tailwind-Tutorial/issues"
+  },
+  "homepage": "https://github.com/Belendia/Tailwind-Tutorial#readme",
+  "dependencies": {
+    "tailwindcss": "^2.1.2"
+  }
+}
